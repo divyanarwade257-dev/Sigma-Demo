@@ -1,2 +1,3 @@
 # Sigma-Demo
-it is my sigma demo repository
+it is my sigma demo repository.
+
